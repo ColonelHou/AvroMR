@@ -1,0 +1,6 @@
+{ 
+  "namespace": "org.apache.avroMR.pojo",
+  "type": "enum",
+  "name": "Suit",
+  "symbols" : ["SPADES", "HEARTS", "DIAMONDS", "CLUBS"]
+}

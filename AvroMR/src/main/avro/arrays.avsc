@@ -1,0 +1,4 @@
+{
+"namespace": "org.apache.avroMR.pojo",
+"type":"array", 
+"items":"string"}
